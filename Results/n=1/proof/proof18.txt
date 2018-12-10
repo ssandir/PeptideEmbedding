@@ -1,0 +1,12 @@
+
+ GRAPH 
+ 
+ JointSets: 
+JointSetID:  0, |centerDistance: 1 |, conLinks:0, 3, 
+JointSetID:  1, |centerDistance: 0 |, conLinks:0, 1, 2, 3,  x: 0 y: 0, 
+JointSetID:  2, |centerDistance: 1 |, conLinks:1, 2,  x: 1 y: 0, 
+LinkID: 0, pJointSet:0, nJointSet:1, boundPair:3, chainType:0, linkType:0, embeded:0
+LinkID: 1, pJointSet:1, nJointSet:2, boundPair:2, chainType:0, linkType:1, embeded:1
+LinkID: 2, pJointSet:2, nJointSet:1, boundPair:1, chainType:0, linkType:2, embeded:1
+LinkID: 3, pJointSet:1, nJointSet:0, boundPair:0, chainType:0, linkType:3, embeded:0
+

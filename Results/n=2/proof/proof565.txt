@@ -1,0 +1,429 @@
+
+ GRAPH 
+ 
+ JointSets: 
+JointSetID:  0, |centerDistance: 1 |, conLinks:0, 4, 5, 16, 17, 21, 22, 3,  x: 0 y: 1, 
+JointSetID:  1, |centerDistance: 0 |, conLinks:0, 1, 5, 6, 8, 9, 15, 12,  x: 0 y: 0, 
+JointSetID:  2, |centerDistance: 1 |, conLinks:1, 2, 8, 26, 27, 30, 31, 11,  x: 1 y: 0, 
+JointSetID:  5, |centerDistance: 2 |, conLinks:4, 17, 18, 50, 51, 54, 55, 59,  x: 0 y: 2, 
+JointSetID:  8, |centerDistance: 1 |, conLinks:6, 7, 14, 15, 35, 37, 38, 20,  x: -1 y: 0, 
+JointSetID:  9, |centerDistance: 2 |, conLinks:7, 34, 35, 86, 87, 89, 90, 92,  x: -2 y: 0, 
+JointSetID:  12, |centerDistance: 1 |, conLinks:9, 10, 12, 13, 43, 44, 45, 40,  x: 0 y: -1, 
+JointSetID:  17, |centerDistance: 2 |, conLinks:13, 14, 38, 39, 44, 98, 99, 47,  x: -1 y: -1, 
+JointSetID:  28, |centerDistance: 2 |, conLinks:22, 23, 2, 3, 25, 26, 67, 28,  x: 1 y: 1, 
+JointSetID:  29, |centerDistance: 3 |, conLinks:23, 66, 67, 18, 19, 49, 50, 52,  x: 1 y: 2, 
+JointSetID:  31, |centerDistance: 3 |, conLinks:24, 25, 28, 29, 68, 125, 126, 71,  x: 2 y: 1, 
+JointSetID:  34, |centerDistance: 2 |, conLinks:27, 29, 30, 68, 69, 72, 73, 76,  x: 2 y: 0, 
+JointSetID:  39, |centerDistance: 2 |, conLinks:31, 10, 11, 42, 43, 77, 78, 80,  x: 1 y: -1, 
+JointSetID:  45, |centerDistance: 3 |, conLinks:36, 56, 57, 33, 34, 87, 120, 121,  x: -2 y: 1, 
+JointSetID:  46, |centerDistance: 2 |, conLinks:36, 37, 16, 20, 21, 57, 58, 63,  x: -1 y: 1, 
+JointSetID:  49, |centerDistance: 3 |, conLinks:39, 97, 98, 88, 89, 92, 93, 152,  x: -2 y: -1, 
+JointSetID:  52, |centerDistance: 3 |, conLinks:41, 42, 78, 79, 104, 142, 143, 75,  x: 1 y: -2, 
+JointSetID:  57, |centerDistance: 2 |, conLinks:45, 46, 40, 41, 103, 104, 105, 100,  x: 0 y: -2, 
+JointSetID:  60, |centerDistance: 1000000000 |, conLinks:48, 
+JointSetID:  61, |centerDistance: 4 |, conLinks:48, 49, 52, 53, 60,  x: 1 y: 3, 
+JointSetID:  64, |centerDistance: 3 |, conLinks:51, 53, 54, 60, 61, 108, 109, 112,  x: 0 y: 3, 
+JointSetID:  69, |centerDistance: 3 |, conLinks:55, 58, 59, 62, 63, 117, 118, 32,  x: -1 y: 2, 
+JointSetID:  70, |centerDistance: 4 |, conLinks:56, 121, 122, 147, 150, 151,  x: -3 y: 1, 
+JointSetID:  77, |centerDistance: 4 |, conLinks:61, 62, 108, 118, 119,  x: -1 y: 3, 
+JointSetID:  80, |centerDistance: 1000000000 |, conLinks:64, 
+JointSetID:  81, |centerDistance: 1000000000 |, conLinks:64, 65, 
+JointSetID:  82, |centerDistance: 4 |, conLinks:65, 66, 19, 24, 124, 125,  x: 2 y: 2, 
+JointSetID:  87, |centerDistance: 3 |, conLinks:69, 70, 72, 130, 131, 82, 83, 135,  x: 3 y: 0, 
+JointSetID:  92, |centerDistance: 3 |, conLinks:73, 74, 76, 77, 80, 81, 139, 136,  x: 2 y: -1, 
+JointSetID:  93, |centerDistance: 4 |, conLinks:74, 75, 138, 139, 143,  x: 2 y: -2, 
+JointSetID:  99, |centerDistance: 4 |, conLinks:79, 141, 142, 160, 161,  x: 1 y: -3, 
+JointSetID:  104, |centerDistance: 4 |, conLinks:83, 134, 135,  x: 4 y: 0, 
+JointSetID:  105, |centerDistance: 1000000000 |, conLinks:84, 
+JointSetID:  106, |centerDistance: 4 |, conLinks:84, 85, 96, 97, 88,  x: -3 y: -1, 
+JointSetID:  107, |centerDistance: 3 |, conLinks:85, 86, 90, 91, 96, 146, 147, 151,  x: -3 y: 0, 
+JointSetID:  114, |centerDistance: 4 |, conLinks:91, 145, 146,  x: -4 y: 0, 
+JointSetID:  117, |centerDistance: 4 |, conLinks:93, 94, 152, 153, 156, 157,  x: -2 y: -2, 
+JointSetID:  118, |centerDistance: 1000000000 |, conLinks:94, 95, 
+JointSetID:  119, |centerDistance: 3 |, conLinks:95, 
+JointSetID:  124, |centerDistance: 3 |, conLinks:99, 46, 47, 102, 103, 153, 154, 156,  x: -1 y: -2, 
+JointSetID:  127, |centerDistance: 4 |, conLinks:101, 102, 154, 155, 140,  x: -1 y: -3, 
+JointSetID:  132, |centerDistance: 3 |, conLinks:105, 106, 100, 101, 163, 140, 141, 160,  x: 0 y: -3, 
+JointSetID:  133, |centerDistance: 4 |, conLinks:106, 107, 162, 163,  x: 0 y: -4, 
+JointSetID:  134, |centerDistance: 1000000000 |, conLinks:107, 
+JointSetID:  137, |centerDistance: 4 |, conLinks:109, 110, 112, 113,  x: 0 y: 4, 
+JointSetID:  138, |centerDistance: 1000000000 |, conLinks:110, 111, 
+JointSetID:  139, |centerDistance: 1000000000 |, conLinks:111, 
+JointSetID:  142, |centerDistance: 1000000000 |, conLinks:113, 114, 
+JointSetID:  143, |centerDistance: 1000000000 |, conLinks:114, 115, 
+JointSetID:  144, |centerDistance: 1000000000 |, conLinks:115, 
+JointSetID:  145, |centerDistance: 1000000000 |, conLinks:116, 
+JointSetID:  146, |centerDistance: 4 |, conLinks:116, 117, 32, 33, 120,  x: -2 y: 2, 
+JointSetID:  149, |centerDistance: 1000000000 |, conLinks:119, 
+JointSetID:  153, |centerDistance: 1000000000 |, conLinks:122, 123, 
+JointSetID:  154, |centerDistance: 1000000000 |, conLinks:123, 
+JointSetID:  155, |centerDistance: 1000000000 |, conLinks:124, 
+JointSetID:  158, |centerDistance: 4 |, conLinks:126, 127, 70, 71, 129, 130,  x: 3 y: 1, 
+JointSetID:  159, |centerDistance: 1000000000 |, conLinks:127, 
+JointSetID:  160, |centerDistance: 1000000000 |, conLinks:128, 
+JointSetID:  161, |centerDistance: 1000000000 |, conLinks:128, 129, 
+JointSetID:  164, |centerDistance: 4 |, conLinks:131, 81, 82, 136, 137,  x: 3 y: -1, 
+JointSetID:  165, |centerDistance: 1000000000 |, conLinks:132, 
+JointSetID:  166, |centerDistance: 1000000000 |, conLinks:132, 133, 
+JointSetID:  167, |centerDistance: 1000000000 |, conLinks:133, 134, 
+JointSetID:  172, |centerDistance: 1000000000 |, conLinks:137, 138,  x: 3 y: -2, 
+JointSetID:  180, |centerDistance: 1000000000 |, conLinks:144, 
+JointSetID:  181, |centerDistance: 1000000000 |, conLinks:144, 145, 
+JointSetID:  185, |centerDistance: 1000000000 |, conLinks:148, 
+JointSetID:  186, |centerDistance: 1000000000 |, conLinks:148, 149, 
+JointSetID:  187, |centerDistance: 1000000000 |, conLinks:149, 150, 
+JointSetID:  194, |centerDistance: 1000000000 |, conLinks:155, 
+JointSetID:  197, |centerDistance: 1000000000 |, conLinks:157, 158, 
+JointSetID:  198, |centerDistance: 1000000000 |, conLinks:158, 159, 
+JointSetID:  199, |centerDistance: 1000000000 |, conLinks:159, 
+JointSetID:  202, |centerDistance: 1000000000 |, conLinks:161, 162,  x: 1 y: -4, 
+LinkID: 0, pJointSet:0, nJointSet:1, boundPair:5, chainType:0, linkType:0, embeded:1
+LinkID: 1, pJointSet:1, nJointSet:2, boundPair:8, chainType:0, linkType:1, embeded:1
+LinkID: 2, pJointSet:2, nJointSet:28, boundPair:26, chainType:0, linkType:2, embeded:1
+LinkID: 3, pJointSet:28, nJointSet:0, boundPair:22, chainType:0, linkType:3, embeded:1
+LinkID: 4, pJointSet:5, nJointSet:0, boundPair:17, chainType:1, linkType:0, embeded:1
+LinkID: 5, pJointSet:0, nJointSet:1, boundPair:0, chainType:1, linkType:1, embeded:1
+LinkID: 6, pJointSet:1, nJointSet:8, boundPair:15, chainType:1, linkType:2, embeded:1
+LinkID: 7, pJointSet:8, nJointSet:9, boundPair:35, chainType:1, linkType:3, embeded:1
+LinkID: 8, pJointSet:2, nJointSet:1, boundPair:1, chainType:1, linkType:0, embeded:1
+LinkID: 9, pJointSet:1, nJointSet:12, boundPair:12, chainType:1, linkType:1, embeded:1
+LinkID: 10, pJointSet:12, nJointSet:39, boundPair:43, chainType:1, linkType:2, embeded:1
+LinkID: 11, pJointSet:39, nJointSet:2, boundPair:31, chainType:1, linkType:3, embeded:1
+LinkID: 12, pJointSet:1, nJointSet:12, boundPair:9, chainType:0, linkType:0, embeded:1
+LinkID: 13, pJointSet:12, nJointSet:17, boundPair:44, chainType:0, linkType:1, embeded:1
+LinkID: 14, pJointSet:17, nJointSet:8, boundPair:38, chainType:0, linkType:2, embeded:1
+LinkID: 15, pJointSet:8, nJointSet:1, boundPair:6, chainType:0, linkType:3, embeded:1
+LinkID: 16, pJointSet:46, nJointSet:0, boundPair:21, chainType:0, linkType:0, embeded:1
+LinkID: 17, pJointSet:0, nJointSet:5, boundPair:4, chainType:0, linkType:1, embeded:1
+LinkID: 18, pJointSet:5, nJointSet:29, boundPair:50, chainType:0, linkType:2, embeded:1
+LinkID: 19, pJointSet:29, nJointSet:82, boundPair:66, chainType:0, linkType:3, embeded:1
+LinkID: 20, pJointSet:8, nJointSet:46, boundPair:37, chainType:1, linkType:0, embeded:1
+LinkID: 21, pJointSet:46, nJointSet:0, boundPair:16, chainType:1, linkType:1, embeded:1
+LinkID: 22, pJointSet:0, nJointSet:28, boundPair:3, chainType:1, linkType:2, embeded:1
+LinkID: 23, pJointSet:28, nJointSet:29, boundPair:67, chainType:1, linkType:3, embeded:1
+LinkID: 24, pJointSet:82, nJointSet:31, boundPair:125, chainType:0, linkType:0, embeded:1
+LinkID: 25, pJointSet:31, nJointSet:28, boundPair:28, chainType:0, linkType:1, embeded:1
+LinkID: 26, pJointSet:28, nJointSet:2, boundPair:2, chainType:0, linkType:2, embeded:1
+LinkID: 27, pJointSet:2, nJointSet:34, boundPair:30, chainType:0, linkType:3, embeded:1
+LinkID: 28, pJointSet:28, nJointSet:31, boundPair:25, chainType:1, linkType:0, embeded:1
+LinkID: 29, pJointSet:31, nJointSet:34, boundPair:68, chainType:1, linkType:1, embeded:1
+LinkID: 30, pJointSet:34, nJointSet:2, boundPair:27, chainType:1, linkType:2, embeded:1
+LinkID: 31, pJointSet:2, nJointSet:39, boundPair:11, chainType:1, linkType:3, embeded:1
+LinkID: 32, pJointSet:69, nJointSet:146, boundPair:117, chainType:1, linkType:0, embeded:1
+LinkID: 33, pJointSet:146, nJointSet:45, boundPair:120, chainType:1, linkType:1, embeded:1
+LinkID: 34, pJointSet:45, nJointSet:9, boundPair:87, chainType:1, linkType:2, embeded:1
+LinkID: 35, pJointSet:9, nJointSet:8, boundPair:7, chainType:1, linkType:3, embeded:1
+LinkID: 36, pJointSet:45, nJointSet:46, boundPair:57, chainType:0, linkType:0, embeded:1
+LinkID: 37, pJointSet:46, nJointSet:8, boundPair:20, chainType:0, linkType:1, embeded:1
+LinkID: 38, pJointSet:8, nJointSet:17, boundPair:14, chainType:0, linkType:2, embeded:1
+LinkID: 39, pJointSet:17, nJointSet:49, boundPair:98, chainType:0, linkType:3, embeded:1
+LinkID: 40, pJointSet:12, nJointSet:57, boundPair:45, chainType:0, linkType:0, embeded:1
+LinkID: 41, pJointSet:57, nJointSet:52, boundPair:104, chainType:0, linkType:1, embeded:1
+LinkID: 42, pJointSet:52, nJointSet:39, boundPair:78, chainType:0, linkType:2, embeded:1
+LinkID: 43, pJointSet:39, nJointSet:12, boundPair:10, chainType:0, linkType:3, embeded:1
+LinkID: 44, pJointSet:17, nJointSet:12, boundPair:13, chainType:1, linkType:0, embeded:1
+LinkID: 45, pJointSet:12, nJointSet:57, boundPair:40, chainType:1, linkType:1, embeded:1
+LinkID: 46, pJointSet:57, nJointSet:124, boundPair:103, chainType:1, linkType:2, embeded:1
+LinkID: 47, pJointSet:124, nJointSet:17, boundPair:99, chainType:1, linkType:3, embeded:1
+LinkID: 48, pJointSet:60, nJointSet:61, boundPair:-1, chainType:0, linkType:0, embeded:0
+LinkID: 49, pJointSet:61, nJointSet:29, boundPair:52, chainType:0, linkType:1, embeded:1
+LinkID: 50, pJointSet:29, nJointSet:5, boundPair:18, chainType:0, linkType:2, embeded:1
+LinkID: 51, pJointSet:5, nJointSet:64, boundPair:54, chainType:0, linkType:3, embeded:1
+LinkID: 52, pJointSet:29, nJointSet:61, boundPair:49, chainType:1, linkType:0, embeded:1
+LinkID: 53, pJointSet:61, nJointSet:64, boundPair:60, chainType:1, linkType:1, embeded:1
+LinkID: 54, pJointSet:64, nJointSet:5, boundPair:51, chainType:1, linkType:2, embeded:1
+LinkID: 55, pJointSet:5, nJointSet:69, boundPair:59, chainType:1, linkType:3, embeded:1
+LinkID: 56, pJointSet:70, nJointSet:45, boundPair:121, chainType:1, linkType:0, embeded:1
+LinkID: 57, pJointSet:45, nJointSet:46, boundPair:36, chainType:1, linkType:1, embeded:1
+LinkID: 58, pJointSet:46, nJointSet:69, boundPair:63, chainType:1, linkType:2, embeded:1
+LinkID: 59, pJointSet:69, nJointSet:5, boundPair:55, chainType:1, linkType:3, embeded:1
+LinkID: 60, pJointSet:61, nJointSet:64, boundPair:53, chainType:0, linkType:0, embeded:1
+LinkID: 61, pJointSet:64, nJointSet:77, boundPair:108, chainType:0, linkType:1, embeded:1
+LinkID: 62, pJointSet:77, nJointSet:69, boundPair:118, chainType:0, linkType:2, embeded:1
+LinkID: 63, pJointSet:69, nJointSet:46, boundPair:58, chainType:0, linkType:3, embeded:1
+LinkID: 64, pJointSet:80, nJointSet:81, boundPair:-1, chainType:1, linkType:0, embeded:0
+LinkID: 65, pJointSet:81, nJointSet:82, boundPair:-1, chainType:1, linkType:1, embeded:0
+LinkID: 66, pJointSet:82, nJointSet:29, boundPair:19, chainType:1, linkType:2, embeded:1
+LinkID: 67, pJointSet:29, nJointSet:28, boundPair:23, chainType:1, linkType:3, embeded:1
+LinkID: 68, pJointSet:31, nJointSet:34, boundPair:29, chainType:0, linkType:0, embeded:1
+LinkID: 69, pJointSet:34, nJointSet:87, boundPair:72, chainType:0, linkType:1, embeded:1
+LinkID: 70, pJointSet:87, nJointSet:158, boundPair:130, chainType:0, linkType:2, embeded:1
+LinkID: 71, pJointSet:158, nJointSet:31, boundPair:126, chainType:0, linkType:3, embeded:1
+LinkID: 72, pJointSet:87, nJointSet:34, boundPair:69, chainType:1, linkType:0, embeded:1
+LinkID: 73, pJointSet:34, nJointSet:92, boundPair:76, chainType:1, linkType:1, embeded:1
+LinkID: 74, pJointSet:92, nJointSet:93, boundPair:139, chainType:1, linkType:2, embeded:1
+LinkID: 75, pJointSet:93, nJointSet:52, boundPair:143, chainType:1, linkType:3, embeded:1
+LinkID: 76, pJointSet:34, nJointSet:92, boundPair:73, chainType:0, linkType:0, embeded:1
+LinkID: 77, pJointSet:92, nJointSet:39, boundPair:80, chainType:0, linkType:1, embeded:1
+LinkID: 78, pJointSet:39, nJointSet:52, boundPair:42, chainType:0, linkType:2, embeded:1
+LinkID: 79, pJointSet:52, nJointSet:99, boundPair:142, chainType:0, linkType:3, embeded:1
+LinkID: 80, pJointSet:39, nJointSet:92, boundPair:77, chainType:1, linkType:0, embeded:1
+LinkID: 81, pJointSet:92, nJointSet:164, boundPair:136, chainType:1, linkType:1, embeded:1
+LinkID: 82, pJointSet:164, nJointSet:87, boundPair:131, chainType:1, linkType:2, embeded:1
+LinkID: 83, pJointSet:87, nJointSet:104, boundPair:135, chainType:1, linkType:3, embeded:1
+LinkID: 84, pJointSet:105, nJointSet:106, boundPair:-1, chainType:0, linkType:0, embeded:0
+LinkID: 85, pJointSet:106, nJointSet:107, boundPair:96, chainType:0, linkType:1, embeded:1
+LinkID: 86, pJointSet:107, nJointSet:9, boundPair:90, chainType:0, linkType:2, embeded:1
+LinkID: 87, pJointSet:9, nJointSet:45, boundPair:34, chainType:0, linkType:3, embeded:1
+LinkID: 88, pJointSet:106, nJointSet:49, boundPair:97, chainType:0, linkType:0, embeded:1
+LinkID: 89, pJointSet:49, nJointSet:9, boundPair:92, chainType:0, linkType:1, embeded:1
+LinkID: 90, pJointSet:9, nJointSet:107, boundPair:86, chainType:0, linkType:2, embeded:1
+LinkID: 91, pJointSet:107, nJointSet:114, boundPair:146, chainType:0, linkType:3, embeded:1
+LinkID: 92, pJointSet:9, nJointSet:49, boundPair:89, chainType:1, linkType:0, embeded:1
+LinkID: 93, pJointSet:49, nJointSet:117, boundPair:152, chainType:1, linkType:1, embeded:1
+LinkID: 94, pJointSet:117, nJointSet:118, boundPair:-1, chainType:1, linkType:2, embeded:0
+LinkID: 95, pJointSet:118, nJointSet:119, boundPair:-1, chainType:1, linkType:3, embeded:0
+LinkID: 96, pJointSet:107, nJointSet:106, boundPair:85, chainType:1, linkType:0, embeded:1
+LinkID: 97, pJointSet:106, nJointSet:49, boundPair:88, chainType:1, linkType:1, embeded:1
+LinkID: 98, pJointSet:49, nJointSet:17, boundPair:39, chainType:1, linkType:2, embeded:1
+LinkID: 99, pJointSet:17, nJointSet:124, boundPair:47, chainType:1, linkType:3, embeded:1
+LinkID: 100, pJointSet:57, nJointSet:132, boundPair:105, chainType:0, linkType:0, embeded:1
+LinkID: 101, pJointSet:132, nJointSet:127, boundPair:140, chainType:0, linkType:1, embeded:1
+LinkID: 102, pJointSet:127, nJointSet:124, boundPair:154, chainType:0, linkType:2, embeded:1
+LinkID: 103, pJointSet:124, nJointSet:57, boundPair:46, chainType:0, linkType:3, embeded:1
+LinkID: 104, pJointSet:52, nJointSet:57, boundPair:41, chainType:1, linkType:0, embeded:1
+LinkID: 105, pJointSet:57, nJointSet:132, boundPair:100, chainType:1, linkType:1, embeded:1
+LinkID: 106, pJointSet:132, nJointSet:133, boundPair:163, chainType:1, linkType:2, embeded:1
+LinkID: 107, pJointSet:133, nJointSet:134, boundPair:-1, chainType:1, linkType:3, embeded:0
+LinkID: 108, pJointSet:77, nJointSet:64, boundPair:61, chainType:1, linkType:0, embeded:1
+LinkID: 109, pJointSet:64, nJointSet:137, boundPair:112, chainType:1, linkType:1, embeded:1
+LinkID: 110, pJointSet:137, nJointSet:138, boundPair:-1, chainType:1, linkType:2, embeded:0
+LinkID: 111, pJointSet:138, nJointSet:139, boundPair:-1, chainType:1, linkType:3, embeded:0
+LinkID: 112, pJointSet:64, nJointSet:137, boundPair:109, chainType:0, linkType:0, embeded:1
+LinkID: 113, pJointSet:137, nJointSet:142, boundPair:-1, chainType:0, linkType:1, embeded:0
+LinkID: 114, pJointSet:142, nJointSet:143, boundPair:-1, chainType:0, linkType:2, embeded:0
+LinkID: 115, pJointSet:143, nJointSet:144, boundPair:-1, chainType:0, linkType:3, embeded:0
+LinkID: 116, pJointSet:145, nJointSet:146, boundPair:-1, chainType:0, linkType:0, embeded:0
+LinkID: 117, pJointSet:146, nJointSet:69, boundPair:32, chainType:0, linkType:1, embeded:1
+LinkID: 118, pJointSet:69, nJointSet:77, boundPair:62, chainType:0, linkType:2, embeded:1
+LinkID: 119, pJointSet:77, nJointSet:149, boundPair:-1, chainType:0, linkType:3, embeded:0
+LinkID: 120, pJointSet:146, nJointSet:45, boundPair:33, chainType:0, linkType:0, embeded:1
+LinkID: 121, pJointSet:45, nJointSet:70, boundPair:56, chainType:0, linkType:1, embeded:1
+LinkID: 122, pJointSet:70, nJointSet:153, boundPair:-1, chainType:0, linkType:2, embeded:0
+LinkID: 123, pJointSet:153, nJointSet:154, boundPair:-1, chainType:0, linkType:3, embeded:0
+LinkID: 124, pJointSet:155, nJointSet:82, boundPair:-1, chainType:1, linkType:0, embeded:0
+LinkID: 125, pJointSet:82, nJointSet:31, boundPair:24, chainType:1, linkType:1, embeded:1
+LinkID: 126, pJointSet:31, nJointSet:158, boundPair:71, chainType:1, linkType:2, embeded:1
+LinkID: 127, pJointSet:158, nJointSet:159, boundPair:-1, chainType:1, linkType:3, embeded:0
+LinkID: 128, pJointSet:160, nJointSet:161, boundPair:-1, chainType:0, linkType:0, embeded:0
+LinkID: 129, pJointSet:161, nJointSet:158, boundPair:-1, chainType:0, linkType:1, embeded:0
+LinkID: 130, pJointSet:158, nJointSet:87, boundPair:70, chainType:0, linkType:2, embeded:1
+LinkID: 131, pJointSet:87, nJointSet:164, boundPair:82, chainType:0, linkType:3, embeded:1
+LinkID: 132, pJointSet:165, nJointSet:166, boundPair:-1, chainType:1, linkType:0, embeded:0
+LinkID: 133, pJointSet:166, nJointSet:167, boundPair:-1, chainType:1, linkType:1, embeded:0
+LinkID: 134, pJointSet:167, nJointSet:104, boundPair:-1, chainType:1, linkType:2, embeded:0
+LinkID: 135, pJointSet:104, nJointSet:87, boundPair:83, chainType:1, linkType:3, embeded:1
+LinkID: 136, pJointSet:92, nJointSet:164, boundPair:81, chainType:0, linkType:0, embeded:1
+LinkID: 137, pJointSet:164, nJointSet:172, boundPair:-1, chainType:0, linkType:1, embeded:1
+LinkID: 138, pJointSet:172, nJointSet:93, boundPair:-1, chainType:0, linkType:2, embeded:1
+LinkID: 139, pJointSet:93, nJointSet:92, boundPair:74, chainType:0, linkType:3, embeded:1
+LinkID: 140, pJointSet:127, nJointSet:132, boundPair:101, chainType:1, linkType:0, embeded:1
+LinkID: 141, pJointSet:132, nJointSet:99, boundPair:160, chainType:1, linkType:1, embeded:1
+LinkID: 142, pJointSet:99, nJointSet:52, boundPair:79, chainType:1, linkType:2, embeded:1
+LinkID: 143, pJointSet:52, nJointSet:93, boundPair:75, chainType:1, linkType:3, embeded:1
+LinkID: 144, pJointSet:180, nJointSet:181, boundPair:-1, chainType:1, linkType:0, embeded:0
+LinkID: 145, pJointSet:181, nJointSet:114, boundPair:-1, chainType:1, linkType:1, embeded:0
+LinkID: 146, pJointSet:114, nJointSet:107, boundPair:91, chainType:1, linkType:2, embeded:1
+LinkID: 147, pJointSet:107, nJointSet:70, boundPair:151, chainType:1, linkType:3, embeded:1
+LinkID: 148, pJointSet:185, nJointSet:186, boundPair:-1, chainType:1, linkType:0, embeded:0
+LinkID: 149, pJointSet:186, nJointSet:187, boundPair:-1, chainType:1, linkType:1, embeded:0
+LinkID: 150, pJointSet:187, nJointSet:70, boundPair:-1, chainType:1, linkType:2, embeded:0
+LinkID: 151, pJointSet:70, nJointSet:107, boundPair:147, chainType:1, linkType:3, embeded:1
+LinkID: 152, pJointSet:49, nJointSet:117, boundPair:93, chainType:0, linkType:0, embeded:1
+LinkID: 153, pJointSet:117, nJointSet:124, boundPair:156, chainType:0, linkType:1, embeded:1
+LinkID: 154, pJointSet:124, nJointSet:127, boundPair:102, chainType:0, linkType:2, embeded:1
+LinkID: 155, pJointSet:127, nJointSet:194, boundPair:-1, chainType:0, linkType:3, embeded:0
+LinkID: 156, pJointSet:124, nJointSet:117, boundPair:153, chainType:1, linkType:0, embeded:1
+LinkID: 157, pJointSet:117, nJointSet:197, boundPair:-1, chainType:1, linkType:1, embeded:0
+LinkID: 158, pJointSet:197, nJointSet:198, boundPair:-1, chainType:1, linkType:2, embeded:0
+LinkID: 159, pJointSet:198, nJointSet:199, boundPair:-1, chainType:1, linkType:3, embeded:0
+LinkID: 160, pJointSet:132, nJointSet:99, boundPair:141, chainType:0, linkType:0, embeded:1
+LinkID: 161, pJointSet:99, nJointSet:202, boundPair:-1, chainType:0, linkType:1, embeded:1
+LinkID: 162, pJointSet:202, nJointSet:133, boundPair:-1, chainType:0, linkType:2, embeded:1
+LinkID: 163, pJointSet:133, nJointSet:132, boundPair:106, chainType:0, linkType:3, embeded:1
+
+____ OTHER SOLUTION
+
+x:-2 y:0, JointSet:9, Links: up:(89,56) right:(7,35) down:(86,90) left:(34,87)
+x:-1 y:-1, JointSet:17, Links: up:(14,38) right:(13,44) down:(39,94) left:(95,99)
+x:-1 y:0, JointSet:8, Links: up:(37,20) right:(6,15) down:(14,38) left:(7,35)
+x:-1 y:1, JointSet:46, Links: up:(58,63) right:(16,21) down:(37,20) left:(36,57)
+x:0 y:-2, JointSet:57, Links: up:(45,40) right:(41,92) down:(46,103) left:(93,100)
+x:0 y:-1, JointSet:12, Links: up:(9,12) right:(10,43) down:(45,40) left:(13,44)
+x:0 y:0, JointSet:1, Links: up:(0,5) right:(1,8) down:(9,12) left:(6,15)
+x:0 y:1, JointSet:0, Links: up:(4,17) right:(22,3) down:(0,5) left:(16,21)
+x:0 y:2, JointSet:5, Links: up:(51,54) right:(18,50) down:(4,17) left:(55,59)
+x:1 y:-1, JointSet:39, Links: up:(31,11) right:(77,80) down:(42,78) left:(10,43)
+x:1 y:0, JointSet:2, Links: up:(2,26) right:(27,30) down:(31,11) left:(1,8)
+x:1 y:1, JointSet:28, Links: up:(23,67) right:(25,28) down:(2,26) left:(22,3)
+x:2 y:0, JointSet:34, Links: up:(29,68) right:(69,72) down:(73,76) left:(27,30)
+
+LINKS:
+id:0, ChainType:0, LinkType0
+id:1, ChainType:0, LinkType1
+id:2, ChainType:0, LinkType2
+id:3, ChainType:0, LinkType3
+id:4, ChainType:1, LinkType0
+id:5, ChainType:1, LinkType1
+id:6, ChainType:1, LinkType2
+id:7, ChainType:1, LinkType3
+id:8, ChainType:1, LinkType0
+id:9, ChainType:1, LinkType1
+id:10, ChainType:1, LinkType2
+id:11, ChainType:1, LinkType3
+id:12, ChainType:0, LinkType0
+id:13, ChainType:0, LinkType1
+id:14, ChainType:0, LinkType2
+id:15, ChainType:0, LinkType3
+id:16, ChainType:0, LinkType0
+id:17, ChainType:0, LinkType1
+id:18, ChainType:0, LinkType2
+id:19, ChainType:0, LinkType3
+id:20, ChainType:1, LinkType0
+id:21, ChainType:1, LinkType1
+id:22, ChainType:1, LinkType2
+id:23, ChainType:1, LinkType3
+id:24, ChainType:0, LinkType0
+id:25, ChainType:0, LinkType1
+id:26, ChainType:0, LinkType2
+id:27, ChainType:0, LinkType3
+id:28, ChainType:1, LinkType0
+id:29, ChainType:1, LinkType1
+id:30, ChainType:1, LinkType2
+id:31, ChainType:1, LinkType3
+id:32, ChainType:1, LinkType0
+id:33, ChainType:1, LinkType1
+id:34, ChainType:1, LinkType2
+id:35, ChainType:1, LinkType3
+id:36, ChainType:0, LinkType0
+id:37, ChainType:0, LinkType1
+id:38, ChainType:0, LinkType2
+id:39, ChainType:0, LinkType3
+id:40, ChainType:0, LinkType0
+id:41, ChainType:0, LinkType1
+id:42, ChainType:0, LinkType2
+id:43, ChainType:0, LinkType3
+id:44, ChainType:1, LinkType0
+id:45, ChainType:1, LinkType1
+id:46, ChainType:1, LinkType2
+id:47, ChainType:1, LinkType3
+id:48, ChainType:0, LinkType0
+id:49, ChainType:0, LinkType1
+id:50, ChainType:0, LinkType2
+id:51, ChainType:0, LinkType3
+id:52, ChainType:1, LinkType0
+id:53, ChainType:1, LinkType1
+id:54, ChainType:1, LinkType2
+id:55, ChainType:1, LinkType3
+id:56, ChainType:1, LinkType0
+id:57, ChainType:1, LinkType1
+id:58, ChainType:1, LinkType2
+id:59, ChainType:1, LinkType3
+id:60, ChainType:0, LinkType0
+id:61, ChainType:0, LinkType1
+id:62, ChainType:0, LinkType2
+id:63, ChainType:0, LinkType3
+id:64, ChainType:1, LinkType0
+id:65, ChainType:1, LinkType1
+id:66, ChainType:1, LinkType2
+id:67, ChainType:1, LinkType3
+id:68, ChainType:0, LinkType0
+id:69, ChainType:0, LinkType1
+id:70, ChainType:0, LinkType2
+id:71, ChainType:0, LinkType3
+id:72, ChainType:1, LinkType0
+id:73, ChainType:1, LinkType1
+id:74, ChainType:1, LinkType2
+id:75, ChainType:1, LinkType3
+id:76, ChainType:0, LinkType0
+id:77, ChainType:0, LinkType1
+id:78, ChainType:0, LinkType2
+id:79, ChainType:0, LinkType3
+id:80, ChainType:1, LinkType0
+id:81, ChainType:1, LinkType1
+id:82, ChainType:1, LinkType2
+id:83, ChainType:1, LinkType3
+id:84, ChainType:0, LinkType0
+id:85, ChainType:0, LinkType1
+id:86, ChainType:0, LinkType2
+id:87, ChainType:0, LinkType3
+id:88, ChainType:0, LinkType0
+id:89, ChainType:0, LinkType1
+id:90, ChainType:0, LinkType2
+id:91, ChainType:0, LinkType3
+id:92, ChainType:1, LinkType0
+id:93, ChainType:1, LinkType1
+id:94, ChainType:1, LinkType2
+id:95, ChainType:1, LinkType3
+id:96, ChainType:1, LinkType0
+id:97, ChainType:1, LinkType1
+id:98, ChainType:1, LinkType2
+id:99, ChainType:1, LinkType3
+id:100, ChainType:0, LinkType0
+id:101, ChainType:0, LinkType1
+id:102, ChainType:0, LinkType2
+id:103, ChainType:0, LinkType3
+id:104, ChainType:1, LinkType0
+id:105, ChainType:1, LinkType1
+id:106, ChainType:1, LinkType2
+id:107, ChainType:1, LinkType3
+id:108, ChainType:0, LinkType0
+id:109, ChainType:0, LinkType1
+id:110, ChainType:0, LinkType2
+id:111, ChainType:0, LinkType3
+id:112, ChainType:0, LinkType0
+id:113, ChainType:0, LinkType1
+id:114, ChainType:0, LinkType2
+id:115, ChainType:0, LinkType3
+id:116, ChainType:1, LinkType0
+id:117, ChainType:1, LinkType1
+id:118, ChainType:1, LinkType2
+id:119, ChainType:1, LinkType3
+id:120, ChainType:0, LinkType0
+id:121, ChainType:0, LinkType1
+id:122, ChainType:0, LinkType2
+id:123, ChainType:0, LinkType3
+id:124, ChainType:1, LinkType0
+id:125, ChainType:1, LinkType1
+id:126, ChainType:1, LinkType2
+id:127, ChainType:1, LinkType3
+id:128, ChainType:0, LinkType0
+id:129, ChainType:0, LinkType1
+id:130, ChainType:0, LinkType2
+id:131, ChainType:0, LinkType3
+id:132, ChainType:1, LinkType0
+id:133, ChainType:1, LinkType1
+id:134, ChainType:1, LinkType2
+id:135, ChainType:1, LinkType3
+id:136, ChainType:0, LinkType0
+id:137, ChainType:0, LinkType1
+id:138, ChainType:0, LinkType2
+id:139, ChainType:0, LinkType3
+id:140, ChainType:1, LinkType0
+id:141, ChainType:1, LinkType1
+id:142, ChainType:1, LinkType2
+id:143, ChainType:1, LinkType3
+id:144, ChainType:0, LinkType0
+id:145, ChainType:0, LinkType1
+id:146, ChainType:0, LinkType2
+id:147, ChainType:0, LinkType3
+id:148, ChainType:0, LinkType0
+id:149, ChainType:0, LinkType1
+id:150, ChainType:0, LinkType2
+id:151, ChainType:0, LinkType3
+id:152, ChainType:1, LinkType0
+id:153, ChainType:1, LinkType1
+id:154, ChainType:1, LinkType2
+id:155, ChainType:1, LinkType3
+id:156, ChainType:1, LinkType0
+id:157, ChainType:1, LinkType1
+id:158, ChainType:1, LinkType2
+id:159, ChainType:1, LinkType3
+id:160, ChainType:1, LinkType0
+id:161, ChainType:1, LinkType1
+id:162, ChainType:1, LinkType2
+id:163, ChainType:1, LinkType3
+id:164, ChainType:0, LinkType0
+id:165, ChainType:0, LinkType1
+id:166, ChainType:0, LinkType2
+id:167, ChainType:0, LinkType3

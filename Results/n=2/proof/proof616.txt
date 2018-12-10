@@ -1,0 +1,18 @@
+
+ GRAPH 
+ 
+ JointSets: 
+JointSetID:  0, |centerDistance: 1 |, conLinks:0, 5, 6, 4, 
+JointSetID:  1, |centerDistance: 0 |, conLinks:0, 1, 6, 7,  x: 0 y: 0, 
+JointSetID:  2, |centerDistance: 1 |, conLinks:1, 2, 7, 3,  x: 1 y: 0, 
+JointSetID:  3, |centerDistance: 2 |, conLinks:2, 3, 
+JointSetID:  6, |centerDistance: 2 |, conLinks:4, 5, 
+LinkID: 0, pJointSet:0, nJointSet:1, boundPair:6, chainType:0, linkType:0, embeded:0
+LinkID: 1, pJointSet:1, nJointSet:2, boundPair:7, chainType:0, linkType:1, embeded:1
+LinkID: 2, pJointSet:2, nJointSet:3, boundPair:3, chainType:0, linkType:2, embeded:0
+LinkID: 3, pJointSet:3, nJointSet:2, boundPair:2, chainType:0, linkType:3, embeded:0
+LinkID: 4, pJointSet:0, nJointSet:6, boundPair:5, chainType:1, linkType:0, embeded:0
+LinkID: 5, pJointSet:6, nJointSet:0, boundPair:4, chainType:1, linkType:1, embeded:0
+LinkID: 6, pJointSet:0, nJointSet:1, boundPair:0, chainType:1, linkType:2, embeded:0
+LinkID: 7, pJointSet:1, nJointSet:2, boundPair:1, chainType:1, linkType:3, embeded:1
+

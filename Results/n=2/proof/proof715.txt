@@ -1,0 +1,29 @@
+
+ GRAPH 
+ 
+ JointSets: 
+JointSetID:  0, |centerDistance: 1 |, conLinks:0, 6, 7, 12, 
+JointSetID:  1, |centerDistance: 0 |, conLinks:0, 1, 7, 9, 10, 11,  x: 0 y: 0, 
+JointSetID:  2, |centerDistance: 1 |, conLinks:1, 2, 8, 9, 3, 15,  x: 1 y: 0, 
+JointSetID:  3, |centerDistance: 2 |, conLinks:2, 3, 
+JointSetID:  6, |centerDistance: 3 |, conLinks:4, 5, 13, 14, 
+JointSetID:  7, |centerDistance: 2 |, conLinks:5, 6, 12, 13, 
+JointSetID:  10, |centerDistance: 2 |, conLinks:8, 14, 15, 4, 
+JointSetID:  13, |centerDistance: 1 |, conLinks:10, 11, 
+LinkID: 0, pJointSet:0, nJointSet:1, boundPair:7, chainType:0, linkType:0, embeded:0
+LinkID: 1, pJointSet:1, nJointSet:2, boundPair:9, chainType:0, linkType:1, embeded:1
+LinkID: 2, pJointSet:2, nJointSet:3, boundPair:3, chainType:0, linkType:2, embeded:0
+LinkID: 3, pJointSet:3, nJointSet:2, boundPair:2, chainType:0, linkType:3, embeded:0
+LinkID: 4, pJointSet:10, nJointSet:6, boundPair:14, chainType:1, linkType:0, embeded:0
+LinkID: 5, pJointSet:6, nJointSet:7, boundPair:13, chainType:1, linkType:1, embeded:0
+LinkID: 6, pJointSet:7, nJointSet:0, boundPair:12, chainType:1, linkType:2, embeded:0
+LinkID: 7, pJointSet:0, nJointSet:1, boundPair:0, chainType:1, linkType:3, embeded:0
+LinkID: 8, pJointSet:10, nJointSet:2, boundPair:15, chainType:0, linkType:0, embeded:0
+LinkID: 9, pJointSet:2, nJointSet:1, boundPair:1, chainType:0, linkType:1, embeded:1
+LinkID: 10, pJointSet:1, nJointSet:13, boundPair:11, chainType:0, linkType:2, embeded:0
+LinkID: 11, pJointSet:13, nJointSet:1, boundPair:10, chainType:0, linkType:3, embeded:0
+LinkID: 12, pJointSet:0, nJointSet:7, boundPair:6, chainType:1, linkType:0, embeded:0
+LinkID: 13, pJointSet:7, nJointSet:6, boundPair:5, chainType:1, linkType:1, embeded:0
+LinkID: 14, pJointSet:6, nJointSet:10, boundPair:4, chainType:1, linkType:2, embeded:0
+LinkID: 15, pJointSet:10, nJointSet:2, boundPair:8, chainType:1, linkType:3, embeded:0
+
